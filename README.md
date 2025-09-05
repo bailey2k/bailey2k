@@ -4,4 +4,4 @@ I am an undergrad Computer Science student at University of Maryland, College Pa
 
 * Interested in full stack development with particular interest in AI and machine learning.
 * Currently learning Swift on my own by building [hangig](https://github.com/bailey2k/hangig) in my spare time.
-* Mastering algorithms, data structures, and OOP (Java) learned at UMD.
+* Mastering algorithms, data structures, databases, and OOP learned at UMD.
