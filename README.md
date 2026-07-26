@@ -1,6 +1,6 @@
 ## Hi there, I'm Bailey 👋
 
-I am an upcoming University of Maryland, College Park Computer Science graduate focused on iOS development and AI/ML research.
+I am a 2026 University of Maryland, College Park Computer Science graduate focused on iOS development and AI/ML research.
 
 ### Some notable works:
 
